@@ -1,6 +1,7 @@
 git is version control system.
 git is free software.
 git has a mutable index called stage.
+fuck.
 <<<<<<< HEAD
 greting a new branch is quick and simple.
 
